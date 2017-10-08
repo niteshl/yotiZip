@@ -1,0 +1,25 @@
+{
+  "name": "yoti-assignment",
+  "version": "1.0.0",
+  "description": "yoti sdk assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yoti"
+  ],
+  "author": "Nitesh Lall",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "connect-redis": "^3.3.2",
+    "express": "^4.16.1",
+    "express-session": "^1.15.6",
+    "path": "^0.12.7",
+    "pdfkit": "^0.8.3",
+    "redis": "^2.8.0",
+    "yoti-node-sdk": "1.0.2"
+  }
+}
